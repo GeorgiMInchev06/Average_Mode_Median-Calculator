@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorAverageModeMedian", "CalculatorAverageModeMedian\CalculatorAverageModeMedian.csproj", "{A0774617-021D-4350-B065-195D1D16C573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0774617-021D-4350-B065-195D1D16C573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0774617-021D-4350-B065-195D1D16C573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0774617-021D-4350-B065-195D1D16C573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0774617-021D-4350-B065-195D1D16C573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A48D5813-6A1B-459B-B5AF-4BA0E4801DEF}
+	EndGlobalSection
+EndGlobal
